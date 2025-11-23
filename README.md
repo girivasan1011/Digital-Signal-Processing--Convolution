@@ -19,6 +19,7 @@ Step 6: Plot the sequence with x-label and y-label with suitable title
 Step 7: Terminate the program.
 
 ## PROGRAM: 
+```
 clc; % clear screen
 clear all; % clear screen
 close all; % close all figure windows
@@ -48,6 +49,7 @@ stem(n1,z);
 xlabel('time');
 ylabel('amplitude');
 title('linear convolution');
+```
 
 ## OUTPUT:
 <img width="1919" height="1019" alt="Screenshot 2025-09-26 153620" src="https://github.com/user-attachments/assets/2bd66999-771e-4e61-a57a-b8ffb231c510" />
